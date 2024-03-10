@@ -2,7 +2,7 @@
 ## Hello My name is Pongsathorn Thuraseth
 ### (Call me as "Hory")
 
-- 🔭 I’m currently working on : King Mongkut Institute of Technology Ladkrabang
+- 🔭 I’m currently study in : King Mongkut Institute of Technology Ladkrabang
 - 🌱 I’m currently learning :
   - Express Back-end API
   - Docker Building Sonarqube For Implementing Security Model
