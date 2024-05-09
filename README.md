@@ -4,12 +4,12 @@
 
 - 🔭 I’m currently study in : King Mongkut Institute of Technology Ladkrabang
 - 🌱 I’m currently learning :
-  - Express Back-end API
-  - Docker Building Sonarqube For Implementing Security Model
-  - Integrating php with ExpressJS Architecture
+  - Webpack
+  - KnexJS Bruno
+  - React Configuration with Webpack & React Hooks
 - 📫 How to reach me: 
   - Facebook : Thorny Hks
   - Instagram : _thornyhks
   - Email (for work) : pthuraseth@gmail.com
   
-- ⚡ Fun fact: I can't Even write clean code
+- ⚡ Fun fact: You can't get my word.
