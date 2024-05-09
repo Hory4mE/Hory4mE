@@ -20,4 +20,4 @@
 
 - Advanced Skills
 
-[![My Advanced Skills](https://skillicons.dev/icon?i=js,html,css,bash,bootstrap,docker,express,figma,react,nginx,nodejs,php,tailwind,ts,vitest,webpack)](https://skillicons.dev)
+[![My Advanced Skills](https://skillicons.dev/icons?i=js,html,css,bash,bootstrap,docker,express,figma,react,nginx,nodejs,php,tailwind,ts,vitest,webpack)](https://skillicons.dev)
