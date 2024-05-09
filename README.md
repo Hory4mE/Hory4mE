@@ -13,3 +13,6 @@
   - Email (for work) : pthuraseth@gmail.com
   
 - ⚡ Fun fact: You can't get my word.
+
+- Skills
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
