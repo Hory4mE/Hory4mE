@@ -11,8 +11,7 @@
   - Facebook : Thorny Hks
   - Instagram : _thornyhks
   - Email (for work) : pthuraseth@gmail.com
-  
-- ⚡ Fun fact: You can't get my word.
+
 
 - Skills
   
