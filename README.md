@@ -4,9 +4,11 @@
 
 - 🔭 I’m currently study in : King Mongkut Institute of Technology Ladkrabang
 - 🌱 I’m currently learning :
-  - Refine
+  - ASP .NET
+  - RESTful .NET
+  - GraphQL on Scala (Sangria)
 - Working on :
-  - Realtime data dashboard training 
+  - Open to work
 - 📫 How to reach me: 
   - Facebook : Thorny Hks
   - Instagram : _thornyhks
